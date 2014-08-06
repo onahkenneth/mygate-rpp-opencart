@@ -34,7 +34,7 @@ In order to get a MyGate Merchant Account please browse to "https://www.mygate.c
 Installation:
 
 1. Upload the contents of this module to the root of your OpenCart installation. Make sure you adhere to the directory structure.
-2. Go to http://www.yourdomain.com/{admin} - whatever admin is name
+2. Go to http://www.yourdomain.com/{admin} - whatever admin is named
 3. Log in with Admin credentials
 4. Go to Extensions >> Payments.  
 5. Click "Install" next to "MyGate" extension to install the extension
